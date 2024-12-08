@@ -22,4 +22,4 @@ for line in data.splitlines():
     if test(result, numbers):
         calibration_result += result
 
-print("Part 1:", calibration_result)
+print("Part 2:", calibration_result)

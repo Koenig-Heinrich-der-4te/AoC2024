@@ -9,3 +9,4 @@ this repository contains my solutions to 2024's [Advent of Code](https://advento
 -   **Day 5** ([Part1 & Part2](05.py)): [Print Queue](https://adventofcode.com/2024/day/5)
 -   **Day 6** ([Part1 & Part2](06.py)): [Guard Gallivant](https://adventofcode.com/2024/day/6)
 -   **Day 7** ([Part1](07.1.py), [Part2](07.2.py)): [Bridge Repair](https://adventofcode.com/2024/day/7)
+-   **Day 8** ([Part1 & Part2](08.py)): [Resonant Collinearity](https://adventofcode.com/2024/day/8)
