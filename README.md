@@ -11,3 +11,4 @@ this repository contains my solutions to 2024's [Advent of Code](https://advento
 -   **Day 7** ([Part1](07.1.py), [Part2](07.2.py)): [Bridge Repair](https://adventofcode.com/2024/day/7)
 -   **Day 8** ([Part1 & Part2](08.py)): [Resonant Collinearity](https://adventofcode.com/2024/day/8)
 -   **Day 9** ([Part1](09.1.py), [Part2](09.2.py)): [Disk Fragmenter](https://adventofcode.com/2024/day/9)
+-   **Day 10** ([Part1 & Part2](10.py)): [Hoof It](https://adventofcode.com/2024/day/10)
