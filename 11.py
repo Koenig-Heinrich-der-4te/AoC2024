@@ -1,7 +1,10 @@
+from functools import cache
+
 with open("11.txt") as file:
     data = file.read()
 
 
+@cache
 def get_next_stones(stone):
     if stone == 0:
         return [1]
