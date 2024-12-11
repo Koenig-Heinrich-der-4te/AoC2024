@@ -12,3 +12,4 @@ this repository contains my solutions to 2024's [Advent of Code](https://advento
 -   **Day 8** ([Part1 & Part2](08.py)): [Resonant Collinearity](https://adventofcode.com/2024/day/8)
 -   **Day 9** ([Part1](09.1.py), [Part2](09.2.py)): [Disk Fragmenter](https://adventofcode.com/2024/day/9)
 -   **Day 10** ([Part1 & Part2](10.py)): [Hoof It](https://adventofcode.com/2024/day/10)
+-   **Day 11** ([Part1 & Part2](11.py)): [Plutonian Pebbles](https://adventofcode.com/2024/day/11)
