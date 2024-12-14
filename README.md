@@ -15,3 +15,4 @@ this repository contains my solutions to 2024's [Advent of Code](https://advento
 -   **Day 11** ([Part1 & Part2](11.py)): [Plutonian Pebbles](https://adventofcode.com/2024/day/11)
 -   **Day 12** ([Part1 & Part2](12.py)): [Garden Groups](https://adventofcode.com/2024/day/12)
 -   **Day 13** ([Part1 & Part2](13.py)): [Claw Contraption](https://adventofcode.com/2024/day/13)
+-   **Day 14** ([Part1 & Part2](14.py)): [Restroom Redoubt](https://adventofcode.com/2024/day/14)
