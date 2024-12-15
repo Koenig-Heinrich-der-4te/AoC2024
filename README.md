@@ -16,3 +16,4 @@ this repository contains my solutions to 2024's [Advent of Code](https://advento
 -   **Day 12** ([Part1 & Part2](12.py)): [Garden Groups](https://adventofcode.com/2024/day/12)
 -   **Day 13** ([Part1 & Part2](13.py)): [Claw Contraption](https://adventofcode.com/2024/day/13)
 -   **Day 14** ([Part1 & Part2](14.py)): [Restroom Redoubt](https://adventofcode.com/2024/day/14)
+-   **Day 15** ([Part1](15.1.py), [Part2](15.2.py)): [Warehouse Woes](https://adventofcode.com/2024/day/15)
