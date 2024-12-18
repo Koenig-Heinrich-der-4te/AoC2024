@@ -19,3 +19,4 @@ this repository contains my solutions to 2024's [Advent of Code](https://advento
 -   **Day 15** ([Part1](15.1.py), [Part2](15.2.py)): [Warehouse Woes](https://adventofcode.com/2024/day/15)
 -   **Day 16** ([Part1 & Part2](16.py)): [Reindeer Maze](https://adventofcode.com/2024/day/16)
 -   **Day 17** ([Part1 & Part2](17.py)): [Chronospatial Computer](https://adventofcode.com/2024/day/17)
+-   **Day 18** ([Part1 & Part2](18.py)): [RAM Run](https://adventofcode.com/2024/day/19)

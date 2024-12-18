@@ -30,7 +30,7 @@ def execute(ptr, op_code, operand, registers, output):
         case 4:  # bxc
             registers[REG_B] ^= registers[REG_C]
         case 5:  # out
-            output(get_combo(operand, registers) % 8)
+            output.append(get_combo(operand, registers) % 8)
         case 6:  # bdv
             registers[REG_B] = registers[REG_A] // (2 ** get_combo(operand, registers))
         case 7:  # cdv
@@ -47,7 +47,7 @@ def run_program(registers):
             program[instr_ptr],
             program[instr_ptr + 1],
             registers,
-            result.append,
+            result,
         )
     return result
 
