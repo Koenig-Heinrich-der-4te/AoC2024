@@ -21,3 +21,4 @@ this repository contains my solutions to 2024's [Advent of Code](https://advento
 -   **Day 17** ([Part1 & Part2](17.py)): [Chronospatial Computer](https://adventofcode.com/2024/day/17)
 -   **Day 18** ([Part1 & Part2](18.py)): [RAM Run](https://adventofcode.com/2024/day/18)
 -   **Day 19** ([Part1 & Part2](19.py)): [Linen Layout](https://adventofcode.com/2024/day/19)
+-   **Day 20** ([Part1 & Part2](20.py)): [Race Condition](https://adventofcode.com/2024/day/20)
